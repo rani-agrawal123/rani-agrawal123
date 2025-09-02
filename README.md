@@ -1,8 +1,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rani-agrawal123&color=brightgreen&style=flat-square)](https://github.com/rani-agrawal123)
 <a><img src="https://img.shields.io/github/followers/rani-agrawal123?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=7000&pause=1000&color=0074e4&center=true&vCenter=true&height=100&width=1000&&lines=Welcome+to+my+GitHub+Profile!..+🙏✌😍;" alt="Typing SVG">
 </p>
