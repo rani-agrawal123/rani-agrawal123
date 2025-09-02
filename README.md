@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rani-agrawal123&color=brightgreen&style=flat-square)](https://github.com/rani-agrawal123)
-<a><img src="https://img.shields.io/github/followers/rani-agrawal123?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/rani-agrawal123?label=Followers&style=social&cacheSeconds=60" alt="GitHub Badge"></a>
 
 
 <p align="center">
