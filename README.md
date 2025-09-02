@@ -1,6 +1,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=rani-agrawal123&color=brightgreen&style=flat-square)](https://github.com/rani-agrawal123)
 <a><img src="https://img.shields.io/github/followers/rani-agrawal123?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=28&duration=7000&pause=1000&color=0074e4&center=true&vCenter=true&height=100&width=1000&&lines=Welcome+to+my+GitHub+Profile!..+🙏✌😍;" alt="Typing SVG">
 </p>
@@ -100,7 +102,6 @@ My focus is on delivering **bug-free, high-quality software** by leveraging mode
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rani-agrawal123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rani-agrawal/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalrani2003@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Arti-98&label=Profile%20views&color=0e75b6&style=flat" alt="Arti-98" />
 <p align="center">✨ “Thanks for Visiting!,🔍 Let’s get Driving product excellence through strategic testing and analysis!” ✨</p>
 
 ---
