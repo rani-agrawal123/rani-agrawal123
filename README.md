@@ -97,6 +97,36 @@ My focus is on delivering **bug-free, high-quality software** by leveraging mode
 - **Advanced Automation Frameworks** and **Performance Testing**
 ---
 
+
+ ## 🚀: Projects  
+
+  ### [Snapdeal E-Commerce Platform – Cypress](https://github.com/rani-agrawal123/Snapdeal_E-Commerce)
+  - Automated core flows (Login, Search, Product Details, Cart & Checkout) using Cypress (JavaScript) with POM structure.
+  - Performed manual, regression, and API testing to validate frontend–backend functionality.
+  - Created and maintained test documentation (test cases, reports, and defect logs).
+  
+  ### [E-Commerce Website Automation – Magento Demo Store](https://github.com/rani-agrawal123/Magento_Demo_Store)
+
+  - **Tech Stack Used:** Cypress (JavaScript), Mocha, Chai, GitHub, Excel/PDF Docs.
+  - Automated end-to-end workflows of Magento Demo Store including Registration/Login, Product Search, Category Navigation,  -    Product Details, Cart, and Checkout.
+  - Developed Page Object Model (POM) framework with Cypress to support regression and functional testing.
+
+  ### [AdminLTE Dashboard – Automation & Testing](https://github.com/rani-agrawal123/AdminLTE_Dashboard)
+
+  - **Tech Stack Used:** Selenium WebDriver (Java), TestNG, Maven, GitHub, Extent Reports.
+  - Automated core modules of AdminLTE Dashboard including Login, Widgets, Forms, Tables, and Charts.
+  - Performed functional, regression, and cross-browser testing with detailed reports and screenshots.
+  - Implemented Page Object Model (POM) framework for better maintainability and scalability of test cases.
+
+
+
+
+  <!-- - **Tech Stack Used:** Cypress (JavaScript), Mocha, Chai, GitHub.  
+  - Automated [SauceDemo](https://www.saucedemo.com/) application covering Login, Inventory, Cart, Checkout, Menu, Negative Scenarios, and UI validations.  
+  - Implemented headless test execution and reusable commands for fast regression testing.   -->
+
+---
+
 ### 📫: Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rani-agrawal123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rani-agrawal/)
